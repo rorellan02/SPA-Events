@@ -1,0 +1,27 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Admin",
+      "email": "admin@example.com",
+      "password": "admin123",
+      "role": "admin"
+    },
+    {
+      "name": "Usuario",
+      "email": "user@example.com",
+      "password": "admin123",
+      "role": "visitor",
+      "id": 2
+    }
+  ],
+  "events": [
+    {
+      "title": "final",
+      "planner": "dorian",
+      "capacity": 2000,
+      "enrolled": [],
+      "id": 7
+    }
+  ]
+}
